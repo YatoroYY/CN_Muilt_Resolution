@@ -1,0 +1,8 @@
+﻿group,source_pdf,data_origin,x_variable,algorithm,x_value,lower_whisker_ratio,q1_ratio,median_ratio,q3_ratio,upper_whisker_ratio,plotted_outlier_markers,plotted_outlier_ratios
+alg2_vary_requests,alg2_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.2,400,0.945879,1.042186,1.130423,1.224096,1.462976,0,
+alg2_vary_requests,alg2_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.2,500,0.940257,1.020084,1.096652,1.226468,1.491039,0,
+alg2_vary_requests,alg2_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.2,600,0.934453,1.039776,1.133016,1.198496,1.424891,7,1.445655;1.454889;1.469678;1.48177;1.48602;1.491621;1.494598
+alg2_vary_requests,alg2_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.2,700,0.935138,1.049453,1.11734,1.203725,1.427729,6,1.442891;1.445235;1.448322;1.464358;1.468525;1.474233
+alg2_vary_requests,alg2_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.2,800,0.932016,1.063622,1.131283,1.236188,1.474702,1,1.496299
+alg2_vary_requests,alg2_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.2,900,0.93137,1.031943,1.099114,1.226248,1.499256,0,
+alg2_vary_requests,alg2_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.2,1000,0.935528,1.07482,1.16065,1.232589,1.464473,2,1.480262;1.499837

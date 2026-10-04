@@ -1,0 +1,8 @@
+﻿group,source_pdf,data_origin,x_variable,algorithm,x_value,lower_whisker_ratio,q1_ratio,median_ratio,q3_ratio,upper_whisker_ratio,plotted_outlier_markers,plotted_outlier_ratios
+alg1_vary_requests,alg1_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.1,400,0.691472,0.870006,0.994521,1.136418,1.336342,0,
+alg1_vary_requests,alg1_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.1,500,0.793961,0.922063,0.989908,1.070856,1.290652,4,0.495091;0.592218;0.693343;1.470969
+alg1_vary_requests,alg1_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.1,600,0.59548,0.869724,0.996385,1.119897,1.454889,0,
+alg1_vary_requests,alg1_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.1,700,0.5809,0.885821,1.018329,1.108956,1.427456,1,1.445235
+alg1_vary_requests,alg1_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.1,800,0.613708,0.85058,1.012503,1.108784,1.477838,1,0.394535
+alg1_vary_requests,alg1_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.1,900,0.628342,0.891613,1.000743,1.088909,1.373286,2,0.427427;1.442637
+alg1_vary_requests,alg1_computing_violation.pdf,digitized_from_vector_pdf,num_requests,Alg.1,1000,0.537765,0.890995,0.991578,1.135451,1.325093,3,0.388691;0.48695;1.552614

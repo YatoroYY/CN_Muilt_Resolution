@@ -1,0 +1,16 @@
+﻿group,source_pdf,data_origin,x_variable,algorithm,x_value,metric,log2_runtime_seconds,runtime_seconds
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,50,runtime,0.471386,1.386441015
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,100,runtime,1.408897,2.655340056
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,150,runtime,1.780786,3.436132276
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,200,runtime,2.234673,4.706559899
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,250,runtime,2.470894,5.54387094
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,HEU,50,runtime,-4.988514,0.031499799
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,HEU,100,runtime,-3.928573,0.065672198
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,HEU,150,runtime,-3.302252,0.101373199
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,HEU,200,runtime,-2.704323,0.153432602
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,HEU,250,runtime,-2.197988,0.217941401
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,LP,50,runtime,1.934483,3.822411408
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,LP,100,runtime,3.081354,8.464083825
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,LP,150,runtime,3.862608,14.546575381
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,LP,200,runtime,4.894981,29.75336293
+alg1_vary_cloudlets,alg1_vary_N_solve_time_log2.pdf,digitized_from_vector_pdf,num_cloudlets,LP,250,runtime,5.776281,54.806735487

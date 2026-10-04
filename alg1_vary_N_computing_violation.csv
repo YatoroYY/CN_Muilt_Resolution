@@ -1,0 +1,6 @@
+﻿group,source_pdf,data_origin,x_variable,algorithm,x_value,lower_whisker_ratio,q1_ratio,median_ratio,q3_ratio,upper_whisker_ratio,plotted_outlier_markers,plotted_outlier_ratios
+alg1_vary_cloudlets,alg1_vary_N_computing_violation.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,50,0.706049,0.910989,0.982888,1.073507,1.231182,3,0.598903;1.33357;1.416786
+alg1_vary_cloudlets,alg1_vary_N_computing_violation.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,100,0.613708,0.85058,1.012502,1.108784,1.477838,1,0.394535
+alg1_vary_cloudlets,alg1_vary_N_computing_violation.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,150,0.681688,0.888112,1.003359,1.114183,1.436147,5,0.490538;1.461556;1.534199;1.616186;1.804472
+alg1_vary_cloudlets,alg1_vary_N_computing_violation.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,200,0.614126,0.878268,1.005729,1.107969,1.417078,3,1.494669;1.56949;1.680094
+alg1_vary_cloudlets,alg1_vary_N_computing_violation.pdf,digitized_from_vector_pdf,num_cloudlets,Alg.1,250,0.630671,0.880806,1.001285,1.1213,1.434172,0,
